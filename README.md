@@ -1,0 +1,1 @@
+# PyQt6-calculator-designer-app
